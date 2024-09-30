@@ -1,0 +1,8 @@
+The classification of hydropower plants starts with two top-level categories:[27]
+
+small hydropower plants (SHP) and
+large hydropower plants (LHP).
+The classification of a plant as an SHP or LHP is primarily based on its nameplate capacity, the threshold varies by the country, but in any case a plant with the capacity of 50 MW or more is considered an LHP.[28] As an example, for China, SHP power is below 25 MW, for India - below 15 MW, most of Europe - below 10 MW.[29]
+
+The SHP and LHP categories are further subdivided into many subcategories that are not mutually exclusive.[28] For example, a low-head hydro power plant with hydrostatic head of few meters to few tens of meters can be classified either as an SHP or an LHP.[30] The other distinction between SHP and LHP is the degree of the water flow regulation: a typical SHP primarily uses the natural water discharge with very little regulation in comparison to an LHP. Therefore, the term SHP is frequently used as a synonym for the run-of-the-river power plant.[28]
+

@@ -1,0 +1,35 @@
+The largest power producers in the world are hydroelectric power stations, with some hydroelectric facilities capable of generating more than double the installed capacities of the current largest nuclear power stations.
+
+Although no official definition exists for the capacity range of large hydroelectric power stations, facilities from over a few hundred megawatts are generally considered large hydroelectric facilities.
+
+Currently, only seven facilities over 10 GW (10,000 MW) are in operation worldwide, see table below.[31]
+
+Rank	Station	Country	Location	Capacity (MW)
+1.	Three Gorges Dam	 China	30°49′15″N 111°00′08″E	22,500
+2.	Baihetan Dam	 China	27°13′23″N 102°54′11″E	16,000
+3.	Itaipu Dam	 Brazil
+ Paraguay	25°24′31″S 54°35′21″W	14,000
+4.	Xiluodu Dam	 China	28°15′35″N 103°38′58″E	13,860
+5.	Belo Monte Dam	 Brazil	03°06′57″S 51°47′45″W	11,233
+6.	Guri Dam	 Venezuela	07°45′59″N 62°59′57″W	10,235
+7.	Wudongde Dam	 China	26°20′2″N 102°37′48″E	10,200
+
+Panoramic view of the Itaipu Dam, with the spillways (closed at the time of the photo) on the left. In 1994, the American Society of Civil Engineers elected the Itaipu Dam as one of the Seven Wonders of the Modern World.[32]
+Small
+Main article: Small hydro
+Small hydro is hydroelectric power on a scale serving a small community or industrial plant. The definition of a small hydro project varies but a generating capacity of up to 10 megawatts (MW) is generally accepted as the upper limit. This may be stretched to 25 MW and 30 MW in Canada and the United States.[33][34]
+
+
+A micro-hydro facility in Vietnam
+
+Pico hydroelectricity in Mondulkiri, Cambodia
+Small hydro stations may be connected to conventional electrical distribution networks as a source of low-cost renewable energy. Alternatively, small hydro projects may be built in isolated areas that would be uneconomic to serve from a grid, or in areas where there is no national electrical distribution network. Since small hydro projects usually have minimal reservoirs and civil construction work, they are seen as having a relatively low environmental impact compared to large hydro. This decreased environmental impact depends strongly on the balance between stream flow and power production.[citation needed]
+
+Micro
+Main article: Micro hydro
+Micro hydro means hydroelectric power installations that typically produce up to 100 kW of power. These installations can provide power to an isolated home or small community, or are sometimes connected to electric power networks. There are many of these installations around the world, particularly in developing nations as they can provide an economical source of energy without purchase of fuel.[35] Micro hydro systems complement photovoltaic solar energy systems because in many areas water flow, and thus available hydro power, is highest in the winter when solar energy is at a minimum.
+
+Pico
+Main article: Pico hydro
+Pico hydro is hydroelectric power generation of under 5 kW. It is useful in small, remote communities that require only a small amount of electricity. For example, the 1.1 kW Intermediate Technology Development Group Pico Hydro Project in Kenya supplies 57 homes with very small electric loads (e.g., a couple of lights and a phone charger, or a small TV/radio).[36] Even smaller turbines of 200–300 W may power a few homes in a developing country with a drop of only 1 m (3 ft). A Pico-hydro setup is typically run-of-the-river, meaning that dams are not used, but rather pipes divert some of the flow, drop this down a gradient, and through the turbine before returning it to the stream.
+
