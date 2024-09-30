@@ -1,0 +1,14 @@
+Conventional (dams)
+See also: List of conventional hydroelectric power stations
+Most hydroelectric power comes from the potential energy of dammed water driving a water turbine and generator. The power extracted from the water depends on the volume and on the difference in height between the source and the water's outflow. This height difference is called the head. A large pipe (the "penstock") delivers water from the reservoir to the turbine.[23]
+
+Pumped-storage
+Main article: Pumped-storage hydroelectricity
+See also: List of pumped-storage hydroelectric power stations
+This method produces electricity to supply high peak demands by moving water between reservoirs at different elevations. At times of low electrical demand, the excess generation capacity is used to pump water into the higher reservoir, thus providing demand side response.[2] When the demand becomes greater, water is released back into the lower reservoir through a turbine. In 2021 pumped-storage schemes provided almost 85% of the world's 190 GW of grid energy storage[2] and improve the daily capacity factor of the generation system. Pumped storage is not an energy source, and appears as a negative number in listings.[24]
+
+Run-of-the-river
+Main article: Run-of-the-river hydroelectricity
+See also: List of run-of-the-river hydroelectric power stations
+Run-of-the-river hydroelectric stations are those with small or no reservoir capacity, so that only the water coming from upstream is available for generation at that moment, and any oversupply must pass unused. A constant supply of water from a lake or existing reservoir upstream is a significant advantage in choosing sites for run-of-the-river.[25]
+
